@@ -10,7 +10,7 @@ Chaque cheat sheet a été soigneusement conçue pour offrir une synthèse conci
 
 - [**Analyser et comprendre les besoins du client**](https://github.com/AnodeGrindYo/Cheat-Sheets-Gestion-de-Projet/blob/main/Analyser%20et%20comprendre%20les%20besoins%20du%20client.md) - Tout commence par comprendre ce que le client souhaite.
 - [**Être un bon chef de projet en IT**](https://github.com/AnodeGrindYo/Cheat-Sheets-Gestion-de-Projet/blob/main/%C3%8Atre%20un%20bon%20chef%20de%20projet%20en%20IT.md) - Les compétences et qualités nécessaires pour bien gérer un projet.
-Définition des Objectifs, Échéances, Livrables et Planification Détail - Établir le cadre et les attentes du projet.
+Définition des Objectifs, Échéances, Livrables et Planification - Établir le cadre et les attentes du projet.
 - [**Planification en Gestion de Projet**](https://github.com/AnodeGrindYo/Cheat-Sheets-Gestion-de-Projet/blob/main/Planification%20en%20Gestion%20de%20Projet.md) - Une vue plus approfondie de la planification (mais tout de même synthétique).
 - [**Coordination de l'Équipe de Projet**](https://github.com/AnodeGrindYo/Cheat-Sheets-Gestion-de-Projet/blob/main/Gestion%20des%20partenariats%20et%20fournisseurs.md) - La gestion des ressources humaines et la coordination des membres de l'équipe.
 - [**Gestion du Budget du Projet**](https://github.com/AnodeGrindYo/Cheat-Sheets-Gestion-de-Projet/blob/main/Gestion%20du%20Budget%20du%20Projet.md) - Assurer que le projet reste dans les limites financières.
